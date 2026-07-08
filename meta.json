@@ -1,0 +1,8 @@
+{
+  "skillName": "web-search-skill",
+  "version": "1.0.0",
+  "displayName": "内网网页检索工具",
+  "category": "搜索工具",
+  "installCommand": "skill install ./web-search-skill",
+  "supportOffline": true
+}
